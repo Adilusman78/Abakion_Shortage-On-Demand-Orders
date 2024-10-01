@@ -1,0 +1,56 @@
+
+{
+  "id": "0c101481-0803-4050-8bd1-e951e7f3efab",
+  "name": "Abakion_Shortage On Demand Orders",
+  "publisher": "ZA Solution",
+  "version": "2.670.0.3",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "15.0.0.0"
+    },
+    {
+      "appId": "ec9a6d52-a09a-4c24-9117-c3cfedc2b079",
+      "publisher": "Abakion",
+      "name": "Shortage On Demand Orders",
+      "version": "24.0.202417.91825"
+    },
+    {
+      "appId": "9cf9feca-8d2d-49f3-a03d-6ae05f910b2c",
+      "publisher": "Abakion",
+      "name": "Abakion App Manager Core",
+      "version": "24.4.202435.102106"
+    }
+ 
+  ],
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": true
+  },
+  "contextSensitiveHelpUrl": "https://D365JOB.com/help/",
+  "runtime": "8.0"
+}
